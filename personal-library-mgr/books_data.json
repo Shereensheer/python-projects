@@ -1,0 +1,30 @@
+[
+    {
+        "title": "meri kahani meri zabani!",
+        "author": "Shereen Ahmed",
+        "year": "2025",
+        "genre": "kahani",
+        "read": false
+    },
+    {
+        "title": "mri kahani",
+        "author": "asharib ali",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    },
+    {
+        "title": "my life",
+        "author": "zari",
+        "year": "2025",
+        "genre": "life",
+        "read": false
+    },
+    {
+        "title": "HUM TUM",
+        "author": "SHEREEN",
+        "year": "2025",
+        "genre": "TUM",
+        "read": false
+    }
+]
